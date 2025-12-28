@@ -4,7 +4,7 @@
 
 ## Notes:
 
-I built this macropad using a Hack Club tutorial, and it was really fun. Unfortunately, I couldn’t make a screenshot of the overall macropad. I struggled for more than three hours trying to figure out how to put the parts together using Autodesk Fusion. It was also very difficult to find a good tutorial for that and my laptop is very slow, this makes things way more complicated. I really hope that the project still gets approved, because I put hours of work into it and did my best.
+I built this macropad using a Hack Club tutorial, and it was really fun. Unfortunately, I couldn’t make a screenshot of the overall macropad. I struggled for many hours trying to figure out how to put the parts together using Autodesk Fusion. It was also very difficult to find a good tutorial for that and my laptop is very slow, this makes things way more complicated. I really hope that the project still gets approved, because I put hours of work into it and did my best.
 
 ## Challenges:
 
