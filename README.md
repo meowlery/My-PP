@@ -8,7 +8,7 @@ I built this macropad using a Hack Club tutorial, and it was really fun. Unfortu
 
 ## Challenges:
 
-Other than that everything else went pretty well and with YouTube and Google I didn't have a problem that I couldn't solve.
+Other than that I spent much time googling and watching YouTube videos for information that wasn't in the tutorial.
 
 ### BOM:
 
