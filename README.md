@@ -30,7 +30,8 @@ Here are the things that are inside my macropad:
 - 9x Cherry MX Switches
 
 ### PCB:
-<img width="1148" height="715" alt="Screenshot 2025-12-27 230925" src="https://github.com/user-attachments/assets/7cedb183-c274-4e0a-aa3c-4c17e21ea577" />
+<img width="875" height="675" alt="Screenshot 2025-12-29 205036" src="https://github.com/user-attachments/assets/f2238343-e70f-401e-8bfe-8f6e903dabd1" />
+
 
 ### Schematic:
 <img width="1310" height="660" alt="Screenshot 2025-12-27 232952" src="https://github.com/user-attachments/assets/241d02b3-0976-4be3-a35c-583c1808de6e" />
