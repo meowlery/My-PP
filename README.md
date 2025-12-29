@@ -37,5 +37,6 @@ Here are the things that are inside my macropad:
 <img width="1310" height="660" alt="Screenshot 2025-12-27 232952" src="https://github.com/user-attachments/assets/241d02b3-0976-4be3-a35c-583c1808de6e" />
 
 ### Case:
-<img width="1165" height="664" alt="Screenshot 2025-12-27 232839" src="https://github.com/user-attachments/assets/5dbb3786-2145-4aa5-8668-5c54fa2ced76" />
+<img width="1520" height="842" alt="pic2" src="https://github.com/user-attachments/assets/3e3dcb6f-62a5-4e69-be42-277b135d7a8d" />
+
 
