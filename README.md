@@ -12,7 +12,7 @@ I built this macropad using a Hack Club tutorial, and it was really fun. Here is
 
 With designing this macropad I learned many things which was really cool. For example I designed a PCB for the first time! I already have an arduino with a breadboard for some small projects and I wondered many times about how to design a PCB but thought it was way more difficult than it actually is. And I created for the first time something in 3D with Fusion360.
 
-##Programs I used:
+## Programs I used:
 
 - Fusion360 for CAD
 - KiCad for the PCB
