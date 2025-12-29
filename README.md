@@ -4,11 +4,19 @@
 
 ## Notes:
 
-I built this macropad using a Hack Club tutorial, and it was really fun. Unfortunately, I couldn’t make a screenshot of the overall macropad. I struggled for many hours trying to figure out how to put the parts together using Autodesk Fusion. It was also very difficult to find a good tutorial for that and my laptop is very slow, this makes things way more complicated. I really hope that the project still gets approved, because I put hours of work into it and did my best.
+I built this macropad using a Hack Club tutorial, and it was really fun. Here is how the final product will look liike after building the parts together:
+<img width="1520" height="842" alt="pic1" src="https://github.com/user-attachments/assets/068f1779-2164-4149-a703-22382b9d9f72" />
+
 
 ## Challenges:
 
-Other than that I spent much time googling and watching YouTube videos for information that wasn't in the tutorial.
+With designing this macropad I learned many things which was really cool. For example I designed a PCB for the first time! I already have an arduino with a breadboard for some small projects and I wondered many times about how to design a PCB but thought it was way more difficult than it actually is. And I created for the first time something in 3D with Fusion360.
+
+##Programs I used:
+
+- Fusion360 for CAD
+- KiCad for the PCB
+- QMK Firmware for the firmware (did I need to explain it?)
 
 ### BOM:
 
